@@ -1,0 +1,25 @@
+
+/** Anton Fonts **/
+
+@font-face {
+  font-family: "anton";
+  src: url("../customFonts/Anton.ttf");   src: url("../customFonts/Anton.eot");  src: url("../customFonts/Anton.woff");   src: url("../customFonts/Anton.woff2");
+}
+
+      /** Oswald-Demibold **/
+@font-face {
+  font-family: "oswaldDemibold";
+  src: url("../customFonts/Oswald-DemiBold.ttf");   src: url("../customFonts/Oswald-DemiBold.eot");  src: url("../customFonts/Oswald-DemiBold.woff");   src: url("../customFonts/Oswald-DemiBold.woff2");
+}
+
+/** Roboto Bold **/
+@font-face {
+  font-family: "robotobold";
+  src: url("../customFonts/Roboto-Bold.ttf");   src: url("../customFonts/Roboto-Bold.eot");  src: url("../customFonts/Roboto-Bold.woff");   src: url("../customFonts/Roboto-Bold.woff2");
+}
+
+/** Roboto Light **/
+@font-face {
+  font-family: "robotoLight";
+  src: url("../customFonts/Roboto-Light.ttf");   src: url("../customFonts/Roboto-Light.eot");   src: url("../customFonts/Roboto-Light.woff");   src: url("../customFonts/Roboto-Light.woff2");
+}
